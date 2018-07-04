@@ -1,0 +1,11 @@
+.box {
+    background: rgb(231, 150, 44);
+    border: 1px solid black;
+    padding: 10px 20px;
+    display: inline-block;
+    
+    }
+
+.dragging {
+    background: rgb(61, 35, 207);
+    }
